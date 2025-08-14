@@ -290,10 +290,11 @@ blockquote::after {
 
 /* --- 参考文献ページのスタイル --- */
 section.ref p {
-    font-size: 70%;
-    padding-left: 3em;
-    text-indent: -3em;
-    font-family: 'Times New Roman', Times, serif;
+  margin-bottom: 0.2rem;
+  font-size: 70%;
+  padding-left: 3em;
+  text-indent: -3em;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 footer {

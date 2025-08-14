@@ -70,10 +70,40 @@ df <- read_csv('data/hoge.csv')
 
 ---
 <!--
-_class: ref
+_header: 'ヘッダも書けるよ'
 -->
 
 ## 参考文献
 
-abcdef
 
+<div class="ref">
+<p>
+Anderson, J. R., & White, E. M. (2024). The psychological impact of imaginary numbers on abstract thought. Journal of Fictional Psychology, 10(3), 112-125.
+
+Chen, L. F. (2023). A new species of flying fish discovered in a non-existent ocean. Annals of Hypothetical Zoology, 5(1), 45-58.
+
+Davis, S. L., & Green, M. T. (2022). The spectral properties of invisible light. Quantum Nonsense Review, 21(4), 301-315.
+
+Evans, P. R. (2021). Chronological inconsistencies in time-travel narratives. Journal of Temporal Studies, 7(2), 88-102.
+
+Foster, G. H., & Hall, R. L. (2020). The sociological implications of a society with no gravity. Journal of Gravitational Sociology, 14(3), 205-220.
+
+Garcia, D. M. (2019). The linguistic structure of a language spoken only in dreams. Phantasmagorical Linguistics, 3(1), 1-15.
+
+Harris, A. J., & Miller, B. K. (2018). The culinary history of forgotten foods from a parallel universe. Historical Gastronomy Quarterly, 11(2), 65-79.
+
+Johnson, L. S. (2017). The geological formation of floating islands. Journal of Earth-Like Planets, 6(4), 150-162.
+
+Kim, Y. S. (2024). The Encyclopedia of Imaginary Creatures. Fictitious Press.
+
+Lopez, F. D. (2023). A Comprehensive Guide to Non-Existent Technologies. Unreal Publishing.
+
+Martinez, E. R. (2022). Advanced Calculus for Impossible Shapes. Paradoxical University Press.
+
+Nelson, O. B. (2021). Metaphysics of the Unseen. Shadow Books.
+
+Patel, R. N. (2020). The Secret History of the World that Wasn't. Mythos Publishing.
+
+Quinn, W. F. (2019). The Art of Drawing Nothing. Empty Canvas Books.
+</p>
+</div>
