@@ -290,7 +290,6 @@ blockquote::after {
 
 /* --- 参考文献ページのスタイル --- */
 section.ref p {
-  margin-bottom: 0.2em;
   font-size: 70%;
   padding-left: 3em;
   text-indent: -3em;

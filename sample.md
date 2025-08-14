@@ -76,10 +76,7 @@ _header: 'ヘッダも書けるよ'
 ## 参考文献
 
 <div class="ref">
-  <p>
-  ll
-  </p>
-</div>
+<p>
 
 Anderson, J. R., & White, E. M. (2024). The psychological impact of imaginary numbers on abstract thought. Journal of Fictional Psychology, 10(3), 112-125.
 
