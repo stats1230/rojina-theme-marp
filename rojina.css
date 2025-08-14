@@ -287,15 +287,15 @@ blockquote::before {
 blockquote::after {
     content: "";
 }
+
 /* --- 参考文献ページのスタイル --- */
-.ref p {
+section.ref p {
     font-size: 70%;
     padding-left: 3em;
     text-indent: -3em;
     font-family: 'Times New Roman', Times, serif;
 }
 
-/* --- フッタのスタイル --- */
 footer {
   position: absolute;
   bottom: 0;
@@ -305,15 +305,12 @@ footer {
   padding: 0 64px;
   box-sizing: border-box;
 
-  /* フッタのカラーバー */
   background: linear-gradient(to right,
       var(--prim-color) 0%,
       var(--prim-color) 33.33%,
       var(--sec-color) 33.33%,
       var(--sec-color) 100%);
 
-
-  /* フッタの文字とレイアウト */
   font-family: Arial, Helvetica, 'Noto Sans Japanese';
   font-size: 0.7em;
   color: var(--color-background);
@@ -335,10 +332,8 @@ footer>div:last-child {
 
 /* --- ページ番号のスタイル --- */
 section::after {
-  /* Marpのデフォルトスタイルをリセット */
   content: attr(data-marpit-pagination) ' / ' attr(data-marpit-pagination-total);
 
-  /* 円とテキストを描画する */
   position: absolute;
   right: -10px;
   bottom: -14px;
@@ -351,13 +346,11 @@ section::after {
   justify-content: center;
   align-items: center;
 
-  /* テキストのスタイル */
   font-family: Arial, Helvetica, 'Noto Sans Japanese';
   font-size: 24px;
   font-weight: 700;
   color: var(--color-foreground);
 
-  /* 円のスタイル */
   background-color: var(--color-background);
   border: 10px solid var(--sec-color);
 }
@@ -366,5 +359,5 @@ section::after {
 
 /* --- 文節ごとに自動改行する --- */
 h1, h2, h3, h4, h5, h6, p {
-    word-break: auto-phrase; /* 文節ごとに自動改行 */
+    word-break: auto-phrase;
   }
