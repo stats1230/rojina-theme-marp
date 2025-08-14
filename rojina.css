@@ -287,6 +287,13 @@ blockquote::before {
 blockquote::after {
     content: "";
 }
+/* --- 参考文献ページのスタイル --- */
+.ref p {
+    font-size: 70%;
+    padding-left: 3em;
+    text-indent: -3em;
+    font-family: 'Times New Roman', Times, serif;
+}
 
 /* --- フッタのスタイル --- */
 footer {
