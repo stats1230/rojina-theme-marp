@@ -75,9 +75,12 @@ _header: 'ヘッダも書けるよ'
 
 ## 参考文献
 
-
 <div class="ref">
-<p>
+  <p>
+  ll
+  </p>
+</div>
+
 Anderson, J. R., & White, E. M. (2024). The psychological impact of imaginary numbers on abstract thought. Journal of Fictional Psychology, 10(3), 112-125.
 
 Chen, L. F. (2023). A new species of flying fish discovered in a non-existent ocean. Annals of Hypothetical Zoology, 5(1), 45-58.
