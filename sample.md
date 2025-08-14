@@ -75,8 +75,6 @@ _header: 'ヘッダも書けるよ'
 
 ## 参考文献
 
-<div class="ref">
-<p>
 
 Anderson, J. R., & White, E. M. (2024). The psychological impact of imaginary numbers on abstract thought. Journal of Fictional Psychology, 10(3), 112-125.
 
@@ -105,5 +103,10 @@ Nelson, O. B. (2021). Metaphysics of the Unseen. Shadow Books.
 Patel, R. N. (2020). The Secret History of the World that Wasn't. Mythos Publishing.
 
 Quinn, W. F. (2019). The Art of Drawing Nothing. Empty Canvas Books.
-</p>
+
+
+---
+
+<div class="ref">
+<p>aa</p>
 </div>

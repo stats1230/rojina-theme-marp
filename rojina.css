@@ -277,15 +277,15 @@ blockquote {
   margin-left: 0em;
 }
 blockquote::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 8em; 
-    border-top: 2px dotted var(--prim-color);
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 8em; 
+  border-top: 2px dotted var(--prim-color);
 }
 blockquote::after {
-    content: "";
+  content: "";
 }
 
 /* --- 参考文献ページのスタイル --- */
@@ -359,5 +359,5 @@ section::after {
 
 /* --- 文節ごとに自動改行する --- */
 h1, h2, h3, h4, h5, h6, p {
-    word-break: auto-phrase;
+  word-break: auto-phrase;
   }
